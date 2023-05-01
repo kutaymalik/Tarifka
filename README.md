@@ -1,4 +1,7 @@
-# Tarifka
+# Tarifka (React-Native Recipe App)
+# Usage
+This project is a recipe project.
+You can select the food category from the category page, choose which meal you will cook from the recipe page, and view the recipe. Finally, there is a youtube button on the detail page that directs you to the recipe page of the meal.
 
 # Screenshots <br/>
 
